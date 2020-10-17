@@ -1,0 +1,16 @@
+.img1,.img2,.img3,.img4{
+    display:inline-block;
+    
+    width: 20%;
+}
+img{
+    width: 50%;
+    border: 1px solid lightblue;
+    box-shadow: 3px 3px 3px 3px lightgray;
+    margin-left: 20px;
+}
+.text{
+    font-size: 10px ;
+    color:lightblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
